@@ -271,7 +271,7 @@ export default function Home() {
 
                 <div className="space-y-4">
                   <Link
-                    href="mailto:manitdoshi1@gmail.com"
+                    href="mailto:manitdoshi2004@gmail.com"
                     className="group flex items-center gap-3 text-foreground hover:text-muted-foreground transition-colors duration-300"
                   >
                     <span className="text-base sm:text-lg">manitdoshi2004@gmail.com</span>
