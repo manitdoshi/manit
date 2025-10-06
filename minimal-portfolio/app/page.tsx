@@ -295,7 +295,7 @@ export default function Home() {
                 {[
                   { name: "LinkedIn", handle: "manitdoshi", url: "https://in.linkedin.com/in/manitdoshi" },
                   { name: "GitHub", handle: "@manitdoshi", url: "#" },
-                  { name: "Email", handle: "manitdoshi2004", url: "mailto:manitdoshi2004@gmail.com" },
+                  //{ name: "Email", handle: "manitdoshi2004", url: "mailto:manitdoshi2004@gmail.com" },
                   { name: "Phone", handle: "+91 7715060900", url: "tel:+917715060900" },
                 ].map((social) => (
                   <Link
