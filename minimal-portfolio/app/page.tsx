@@ -274,7 +274,7 @@ export default function Home() {
                     href="mailto:manitdoshi2004@gmail.com"
                     className="group flex items-center gap-3 text-foreground hover:text-muted-foreground transition-colors duration-300"
                   >
-                    <span className="text-base sm:text-lg">manitdoshi2004@gmail.com</span>
+                    <span className="text-base sm:text-lg">Mail</span>
                     <svg
                       className="w-5 h-5 transform group-hover:translate-x-1 transition-transform duration-300"
                       fill="none"
